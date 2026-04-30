@@ -9,6 +9,9 @@
 # --- Required options --- #
 ############################
 
+url: "https://fede-ceo.github.io"
+baseurl: ""
+
 # Name of website
 title: Fedeceo
 
