@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
 ---
+
 
 ## 👋 About Me
 Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con interesse per cybersecurity e AI.
