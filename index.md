@@ -1,3 +1,10 @@
+---
+layout: page
+title: ""
+---
+
+
+
 ## 👋 About Me
 
 Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con un forte interesse per la cybersecurity e l’intelligenza artificiale.  
