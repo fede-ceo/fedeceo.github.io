@@ -13,21 +13,21 @@ url: "https://fede-ceo.github.io"
 baseurl: ""
 
 # Name of website
-title: Fedeceo
+title: Federico Ceo
 
 # Your name to show in the footer
-author: Some Person
+author: Federico Ceo
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://fede-ceo.github.io"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+#navbar-links:
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://fede-ceo.github.io"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
