@@ -1,44 +1,40 @@
+## 👋 About Me
+
+Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con un forte interesse per la cybersecurity e l’intelligenza artificiale.  
+Mi piace costruire competenze pratiche e applicarle a progetti reali.
+
 ---
-layout: home
+
+## 🎓 Certificazioni Cisco
+
+- CCNA (Cisco Certified Network Associate)
+- [Eventuali altre certificazioni]
+
 ---
 
-### 👋 About Me
-Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con interesse per cybersecurity e AI.
+## 💻 Formazione Online
 
-### 🎓 Certificazioni Cisco
-- CCNA
-- [altre]
+Ho completato diversi corsi su piattaforme come Udemy, tra cui:
 
-### 💻 Formazione Online
-- Corsi networking e cybersecurity (Udemy)
+- Networking e infrastrutture IT
+- Cybersecurity fundamentals
+- Sistemi e protocolli di rete
 
-### 🤖 AI & Tools
-- Utilizzo strumenti AI (Anthropic, LLM)
+---
 
-### 👋 About Me
-Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con interesse per cybersecurity e AI.
+## 🤖 AI & Tools
 
-### 🎓 Certificazioni Cisco
-- CCNA
-- [altre]
+Sto esplorando strumenti di intelligenza artificiale moderni, tra cui:
 
-### 💻 Formazione Online
-- Corsi networking e cybersecurity (Udemy)
+- Modelli linguistici (LLM)
+- Strumenti AI per automazione e produttività
+- Sperimentazione con API e assistenti AI
 
-### 🤖 AI & Tools
-- Utilizzo strumenti AI (Anthropic, LLM)
+---
 
+## 📌 Focus attuale
 
-### 👋 About Me
-Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con interesse per cybersecurity e AI.
-
-### 🎓 Certificazioni Cisco
-- CCNA
-- [altre]
-
-### 💻 Formazione Online
-- Corsi networking e cybersecurity (Udemy)
-
-### 🤖 AI & Tools
-- Utilizzo strumenti AI (Anthropic, LLM)
-
+Attualmente sto lavorando su:
+- Miglioramento competenze di rete
+- Sicurezza informatica
+- Integrazione AI nei workflow tecnici
