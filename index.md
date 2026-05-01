@@ -5,21 +5,21 @@ title: ""
 
 
 
-## 👋 About Me
+### 👋 About Me
 
-Ciao, sono [Nome]. Mi occupo di networking e tecnologia, con un forte interesse per la cybersecurity e l’intelligenza artificiale.  
+Ciao, sono Federico. Mi occupo di networking e tecnologia, con un forte interesse per la cybersecurity e l’intelligenza artificiale.  
 Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-## 🎓 Certificazioni Cisco
+### 🎓 Certificazioni Cisco
 
 - CCNA (Cisco Certified Network Associate)
 - [Eventuali altre certificazioni]
 
 ---
 
-## 💻 Formazione Online
+### 💻 Formazione Online
 
 Ho completato diversi corsi su piattaforme come Udemy, tra cui:
 
@@ -29,7 +29,7 @@ Ho completato diversi corsi su piattaforme come Udemy, tra cui:
 
 ---
 
-## 🤖 AI & Tools
+### 🤖 AI & Tools
 
 Sto esplorando strumenti di intelligenza artificiale moderni, tra cui:
 
@@ -39,7 +39,7 @@ Sto esplorando strumenti di intelligenza artificiale moderni, tra cui:
 
 ---
 
-## 📌 Focus attuale
+### 📌 Focus attuale
 
 Attualmente sto lavorando su:
 - Miglioramento competenze di rete
