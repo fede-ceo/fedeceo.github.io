@@ -12,7 +12,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### Corsi Cisco
+### 🌐 Corsi Cisco
 - Cisco Networking Academy Learn-A-Thon 2026 [link](https://www.credly.com/badges/04ecb49d-210b-4064-88e3-418049b2e22f/linked_in_profile)
 - Python Essentials 1
 - Operating Systems Basics
@@ -27,7 +27,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### Corsi Google
+### ☁️ Corsi Google
 - Google AI Essentials V1
 - Specializzazione Google AI Essentials
 - Introduction to AI
@@ -38,7 +38,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### Corsi Udemy
+### 🎓 Corsi Udemy
 - Impara Linux: dalle basi alla certificazione LPI - Exam 101
 - Impara Linux: dalle basi alla certificazione LPI - Exam 102
 - Proxmox Per Comuni Mortali
@@ -47,7 +47,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### Corsi Antrophic
+### 🤖 Corsi Anthropic
 - Claude 101
 - Claude code 101
 - Introduction to Claude Cowork
