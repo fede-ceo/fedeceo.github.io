@@ -146,7 +146,7 @@ link-col: "#141413"        # link stile editoriale (come testo)
 hover-col: "#6A665C"       # hover soft
 
 navbar-col: "#141413"      # barra sopra beige più marcato
-navbar-text-col: "#B5B2AA"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#D6CCBC"
 
 footer-col: "#141413"      # footer scuro
