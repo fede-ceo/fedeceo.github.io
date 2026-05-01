@@ -47,7 +47,7 @@ Mi piace costruire competenze pratiche e applicarle a progetti reali.
 
 ---
 
-### 🤖 Corsi Anthropic
+### ✨ Corsi Anthropic
 - Claude 101 — [🔗](https://verify.skilljar.com/c/hzeq7b6iqzb7)
 - Claude code 101 — [🔗](https://verify.skilljar.com/c/nkxi4oyktbcy)
 - Introduction to Claude Cowork — [🔗](https://verify.skilljar.com/c/7rq8wgdnd9ts)
