@@ -145,7 +145,7 @@ text-col: "#141413"        # testo principale
 link-col: "#141413"        # link stile editoriale (come testo)
 hover-col: "#6A665C"       # hover soft
 
-navbar-col: "#C57C37"      # barra sopra beige più marcato
+navbar-col: "#141413"      # barra sopra beige più marcato
 navbar-text-col: "#141413"
 navbar-border-col: "#D6CCBC"
 
