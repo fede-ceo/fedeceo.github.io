@@ -51,9 +51,9 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: mioemail@gmail.com
-  github: https://github.com/utente
-  linkedin: https://linkedin.com/in/nome
+  email: ceo.federico@gmail.com
+  github: https://github.com/fede-ceo
+  linkedin: https://www.linkedin.com/in/federico-ceo-787149370/
 
   #email: "ceo.federico@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
