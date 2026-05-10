@@ -14,6 +14,9 @@ title: Fedeceo
 
 # Your name to show in the footer
 author: Federico Ceo
+baseurl: ""
+url: "https://fede-ceo.github.io/fedeceo.github.io/"
+
 
 ###############################################
 # --- List of links in the navigation bar --- #
