@@ -54,22 +54,19 @@ social-network-links:
   email: ceo.federico@gmail.com
   github: fede-ceo
   linkedin: federico-ceo-787149370/
+#  facebook:
+#  instagram:
 
-  #email: "ceo.federico@gmail.com"
-  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
-  #github: fede-ceo
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: "@daattali"
-  #whatsapp: 15551212
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-   #linkedin: federico-ceo-787149370/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -142,23 +139,23 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#2E2E2E"         # leggermente più profondo
-link-col: "#2563EB"        # blu moderno (più attuale)
-hover-col: "#1D4ED8"       # hover coerente
-navbar-col: "#F5F5F5"      # più morbido
+text-col: "#2E2E2E"
+link-col: "#2563EB"
+hover-col: "#1D4ED8"
+navbar-col: "#F5F5F5"
 navbar-text-col: "#2E2E2E"
 navbar-border-col: "#E5E5E5"
 footer-col: "#F5F5F5"
-footer-text-col: "#6B7280" # grigio più moderno
+footer-text-col: "#6B7280"
 footer-link-col: "#2E2E2E"
 footer-hover-col: "#1D4ED8"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-#navbar-img: "/assets/img/bgimage.png"
-#footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+navbar-img: "/assets/img/bgimage.png"
+footer-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
