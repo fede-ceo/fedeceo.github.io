@@ -11,8 +11,8 @@
 
 # Name of website
 title: Fedeceo
-url: "https://fedeceo.github.io"
 baseurl: ""
+url: "https://fedeceo.github.io"
 
 # Your name to show in the footer
 author: Some Person
