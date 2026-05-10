@@ -11,11 +11,9 @@
 
 # Name of website
 title: Fedeceo
-baseurl: ""
-url: "https://fedeceo.github.io"
 
 # Your name to show in the footer
-author: Some Person
+author: Federico Ceo
 
 ###############################################
 # --- List of links in the navigation bar --- #
