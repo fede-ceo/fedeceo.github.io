@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Chi sono e i corsi che ho fatto
 ---
 
 Ciao, sono Federico. Sto costruendo il mio percorso nel mondo IT, con un focus su cloud e cybersecurity: due ambiti che combinano innovazione, complessità e continua evoluzione.
