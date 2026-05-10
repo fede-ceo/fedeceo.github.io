@@ -1,0 +1,65 @@
+# Sicurezza in TrueNAS SCALE: protezione dei dati, container e ransomware
+
+Nel mondo odierno, dove i dati sono il vero tesoro di aziende e privati, proteggere l’informazione non è più un optional: è una necessità. TrueNAS SCALE si presenta come una soluzione di storage open source potente e flessibile, capace di gestire grandi quantità di dati, cluster, container e virtualizzazione.
+
+Ma come si comporta dal punto di vista della sicurezza? Tra snapshot immutabili, crittografia avanzata e gestione dei container, TrueNAS SCALE offre strumenti robusti per difendere i dati da ransomware, accessi non autorizzati e perdita accidentale.
+
+In questo articolo rispondiamo alle principali domande sulla sicurezza di TrueNAS SCALE, spiegando come configurarlo correttamente e quali pratiche adottare per massimizzare protezione e resilienza.
+
+---
+
+## TrueNAS SCALE è sicuro? Quali differenze ci sono rispetto a TrueNAS CORE?
+
+TrueNAS SCALE è una piattaforma open source di storage basata su Linux, progettata per il clustering e la virtualizzazione. Rispetto a TrueNAS CORE (basato su FreeBSD), SCALE supporta container Docker e orchestrazione Kubernetes, offrendo maggiore flessibilità per carichi di lavoro moderni.
+
+Dal punto di vista della sicurezza, SCALE eredita la solidità di ZFS, con snapshot e replica dei dati, ma richiede maggiore attenzione alla gestione del sistema Linux e dei container, per ridurre la superficie di attacco.
+
+---
+
+## Quali meccanismi di protezione dei dati offre TrueNAS SCALE?
+
+TrueNAS SCALE utilizza diversi strumenti avanzati per proteggere i dati:
+
+- ZFS con snapshot e replica cifrata  
+- Crittografia a livello di dataset  
+- Controllo degli accessi basato su utenti e gruppi  
+
+Queste misure combinano sicurezza “at rest” e gestione centralizzata dei permessi.
+
+---
+
+## Posso usare container su TrueNAS SCALE in modo sicuro?
+
+Sì, ma serve attenzione:
+
+- Limitare i privilegi dei container (--privileged da evitare)
+- Usare immagini verificate da repository ufficiali o interne
+- Monitorare vulnerabilità con strumenti come Trivy
+- Aggiornare regolarmente SCALE e Kubernetes integrato
+
+---
+
+## È sicuro esporre TrueNAS SCALE su internet?
+
+Esporre il NAS direttamente su internet è rischioso:
+
+- Possibili attacchi brute-force su SSH o interfaccia web
+- Vulnerabilità dei container o del sistema
+- Rischio di ransomware se il NAS non è isolato
+
+Si consiglia di usare:
+
+- VPN
+- oppure reverse proxy con autenticazione a più fattori (MFA)
+
+---
+
+## Come posso proteggere TrueNAS SCALE da ransomware?
+
+Best practice:
+
+- Snapshot frequenti e immutabili
+- Replica offsite cifrata
+- Aggiornamenti regolari
+- Autenticazione forte (MFA)
+- Segmentazione della rete
