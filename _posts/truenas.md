@@ -1,3 +1,16 @@
+---
+layout: post
+title: Flake it till you make it
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [books, test]
+author: Sharon Smith and Barry Simpson
+---
+
+
+
 # Sicurezza in TrueNAS SCALE: protezione dei dati, container e ransomware
 
 Nel mondo odierno, dove i dati sono il vero tesoro di aziende e privati, proteggere l’informazione non è più un optional: è una necessità. TrueNAS SCALE si presenta come una soluzione di storage open source potente e flessibile, capace di gestire grandi quantità di dati, cluster, container e virtualizzazione.
